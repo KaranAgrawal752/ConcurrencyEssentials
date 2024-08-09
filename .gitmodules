@@ -1,0 +1,9 @@
+[submodule "Lock_Free_Linked_List"]
+	path = Lock_Free_Linked_List
+	url = https://www.github.com/KaranAgrawal752/Lock_Free_Linked_List.git
+[submodule "Universilty_of_consensus"]
+	path = Universilty_of_consensus
+	url = https://www.github.com/KaranAgrawal752/Universilty_of_consensus.git
+[submodule "Spin_Locks"]
+	path = Spin_Locks
+	url = https://www.github.com/KaranAgrawal752/Spin_Locks
